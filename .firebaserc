@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mybotulenh"
+  },
+  "targets": {
+    "mybotulenh": {
+      "hosting": {
+        "MyBTL": [
+          "mybotulenh"
+        ]
+      }
+    }
+  }
+}
